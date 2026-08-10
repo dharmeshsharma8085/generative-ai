@@ -1,0 +1,24 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-text-splitters
+
+# LLM Providers
+langchain-mistralai
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+
+
+# Environment
+python-dotenv
+pydantic
+
+# Embeddings / Vector Database
+faiss-cpu==1.14.3
+tiktoken==0.13.0
+
+# API / Deployment
+fastapi
+uvicorn
+requests
