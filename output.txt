@@ -1,1 +1,3 @@
 python ".\chatmodels\chat.py"
+.\.venv\Scripts\Activate.ps1     # ✅
+python -m streamlit run .\chatmodels\app.py
